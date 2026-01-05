@@ -1,7 +1,7 @@
 ## In Progress
 
 - Improving my skills in **Computer Science** and **Information Science**
-- Exploring **Scrapy** and **Playwright**
+- Currently exploring game design in Java
 
 ---
 
