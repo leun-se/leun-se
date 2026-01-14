@@ -1,6 +1,6 @@
-## In Progress
+## Hi!
 
-- Improving my skills in **Computer Science** and **Information Science**
+I'm a sophomore studying Computer Science and Information Science at the University of Pittsburgh.
 - Currently exploring game design in Java
 
 ---
