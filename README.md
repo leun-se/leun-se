@@ -1,7 +1,7 @@
 ## Hi!
 
 I'm a sophomore studying Computer Science and Information Science at the University of Pittsburgh.
-- Currently exploring game design in Java
+- Currently exploring web-sockets and dynamic 3D models
 
 ---
 
