@@ -1,6 +1,6 @@
 ## Hi!
 
-I'm a sophomore studying Computer Science and Information Science at the University of Pittsburgh.
+I'm a junior studying Computer Science and Information Science at the University of Pittsburgh.
 - Currently exploring web-sockets and dynamic 3D models
 
 ---
