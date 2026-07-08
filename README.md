@@ -21,5 +21,3 @@ I'm a junior studying Computer Science and Information Science at the University
 </div>
 
 ---
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leun-se&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
