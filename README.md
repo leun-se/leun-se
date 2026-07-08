@@ -22,5 +22,4 @@ I'm a junior studying Computer Science and Information Science at the University
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=leun-se&theme=dark)](https://git.io/streak-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leun-se&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
